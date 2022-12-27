@@ -101,7 +101,7 @@ Go to serverlessland.com and go to code patterns to filter SAM, EventBridge, and
 "emailAddress": "Email Address"}
 ```
 
-![[Screenshot 2022-12-20 at 7.07.56 PM 1.png]]
+![](![[Screenshot%202022-12-20%20at%207.07.56%20PM%201.png]].png)
 
 - In EventBridge go to the schema created and click on Download Code Bindings
 
